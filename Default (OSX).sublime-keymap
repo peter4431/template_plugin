@@ -1,0 +1,3 @@
+[
+    {"keys": ["shift+f2"], "command": "luadbg_start" }
+]
